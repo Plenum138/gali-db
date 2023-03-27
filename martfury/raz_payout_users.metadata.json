@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"eab6662cc4fd43ab9e30d38d49eb3cc7","collectionName":"raz_payout_users"}

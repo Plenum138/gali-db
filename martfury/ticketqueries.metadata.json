@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"1a8da947177f4c11ad2b92d4098f3747","collectionName":"ticketqueries"}
