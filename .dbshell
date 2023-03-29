@@ -1,0 +1,87 @@
+dir
+show dbs
+show dbs
+use martfury
+show collections;
+db.sub_categories.find();
+show dbs;
+clear
+show dbs;
+use martfury
+clear
+system clear
+system claer
+system clear
+show collections;
+db.userlogins.find();
+db.userlogins.find().pretty();
+db.userlogins.find('6022a224dde3394492436a386022a224dde3394492436a38')
+show dbs;
+use marfury
+show collections;
+use martfury
+show collections;
+show dbs;
+use martfury;
+show collections
+db.shipping_rates.find()
+show dbs;
+use martfury
+show collections;
+clear
+use martfury
+dir
+show collections;
+db.userlogins.find().pretty();;
+use martfury
+db.userlogins.find();
+db.userlogins.find({email:apanikadevelopers});
+db.userlogins.find({'email':'apanikadevelopers@gmail.com'});
+use martfury
+dir
+db.userlogins.find().pretty();
+db.userlogins.find({'email': 'apanikadevelopers@gmail.com'}).pretty();
+show dbs;
+use galinukkad
+show collections;
+db.products.find().pretty()
+db.products.find().count()
+use martfury
+show collections;
+db.products.count()
+db.products.find().count()
+show dbs;
+use martfury
+show collections;
+db.userlogins.find({email: "test-admin@gmail.com"})
+db.userlogins.findOne({email: "test@gmail.com"})
+db.userlogins.updateOne({"email": "test@gmail.com"}, {$set : { "password": "test@gmail.com" }} )
+db.userlogins.findOne({email: "test@gmail.com"})
+db.userlogins.updateOne({"email": "test@gmail.com"}, {$set : { "password": "$2b$10$dAPMOE8Snb3M2vRVWh5D8ec5PI05DHFejfYNMWMrDT.57ABaSwm82" }} )
+db.userlogins.findOne({email: "test@gmail.com"})
+show dbs
+use martfury
+show collections;
+db.userlogins.findOne({"email": "valentina@yopmail.com"})
+show dbs;
+use martfury
+show collections;
+db.userlogins.find()
+db.userlogins.find().pretty()
+db.userlogins.find({roles: "ADMIN"}).pretty()
+show dbs
+show dbs
+use martfury
+show collections;
+show users;
+show users
+show userlogins;
+db.getUnits;
+db.martfury.getUnits;
+db.martfury.getUnits();
+show dbs;
+show dbs;
+show dbs
+ls
+use martfury
+show collections
